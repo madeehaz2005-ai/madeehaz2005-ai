@@ -1,7 +1,7 @@
 
 <!-- ANIMATED BANNER -->
 <p align="center">
-  <img src="./(1).jpg"
+  <img src="./(1).gif"
        width="100%"
        alt="My anime banner" />
 </p>
@@ -31,8 +31,6 @@
 ## 🌙 About Me
 
 Hey there! I'm Madeeha 👋
-
-<img align="right" width="180" src="./eyes-anime-emerald-eyes-green-eyes-black.gif" alt="Anime emerald eyes" />
 
 I'm a final year engineering student exploring software development, cloud technologies, and ideas that can make a real difference.
 
